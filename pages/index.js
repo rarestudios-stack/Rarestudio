@@ -73,7 +73,7 @@ const ArrowClickedHnadler= () => {
         </div>
 
         <Link className="cursor-pointer mt-4" activeClass ="active" to={ArrowClicked?'head':'footer'} spy={true} smooth={true} offset={-70} duration={600}>
-        <svg onClick={ArrowClickedHnadler} xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" className={ArrowClicked?"rotate-90":"fill-white animate-bounce"}><path d="m18.707 12.707-1.414-1.414L13 15.586V6h-2v9.586l-4.293-4.293-1.414 1.414L12 19.414z"></path></svg>
+        <svg onClick={ArrowClickedHnadler} xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" className={ArrowClicked?"rotate-90 fill-white":"fill-white animate-bounce"}><path d="m18.707 12.707-1.414-1.414L13 15.586V6h-2v9.586l-4.293-4.293-1.414 1.414L12 19.414z"></path></svg>
         </Link>
         
         {/* <Link className={ArrowClicked ? "cursor-pointer mt-4" : 'hidden'} activeClass ="active" to='head' spy={true} smooth={true} offset={-70} duration={600}>

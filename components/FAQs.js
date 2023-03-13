@@ -220,6 +220,22 @@ export default function FAQs() {
                   Builder
                 </h1>
               </div>
+
+              <div className=" flex flex-col items-start w-full h-full p-4 bg-gray-800">
+                <img src="team-5.png" className="w-[150px] h-[180px]" />
+                <h1 className="font-semibold text-white text-[18px] mt-1">
+                  Cheddar
+                </h1>
+                <h1 className="font-medium text-white text-[15px]">
+                  Game Dev
+                </h1>
+                <h1 className="font-medium text-white text-[16px] mt-3">
+                  Unity 3D <br /> 
+                  Game Builder
+                  
+                </h1>
+              </div>
+
             </div>
           </AccordionBody>
         </Accordion>

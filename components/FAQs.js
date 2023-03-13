@@ -191,18 +191,18 @@ export default function FAQs() {
                 </h1>
                 <h1 className="font-medium text-white lg:text-[15px] sm:text-[12px]">Founder</h1>
                 <h1 className="font-medium text-white lg:text-[16px] sm:text-[14px] mt-3">
-                  Entrepreneur <br /> & Blockchain OG
+                  Entrepreneur <br /> & Creator
                 </h1>
               </div>
 
               <div className=" flex flex-col items-start w-full h-full p-4 bg-gray-800 md:mx-5 md:my-0 my-4">
                 <img src="team-4.png" className="w-[150px] h-[180px]" />
                 <h1 className="font-semibold text-white lg:text-[18px] sm:text-sm mt-1">
-                  Ordinal.jpg
+                  William G.
                 </h1>
                 <h1 className="font-medium text-white lg:text-[15px] sm:text-[12px]">Founder</h1>
                 <h1 className="font-medium text-white lg:text-[16px] sm:text-[14px] mt-3">
-                  Gang Leader &<br />
+                  Bank &<br />
                   Legit Builder
                 </h1>
               </div>

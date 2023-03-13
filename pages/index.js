@@ -18,9 +18,9 @@ const ArrowClickedHnadler= () => {
   return (
     <>
       <Head>
-        <title>Skelee-Mini-web01</title>
-        <meta name="Description" content="skelee-mini-web" />
-        <link rel="icon" href="/Logoicon.png" />
+        <title>Rare Studios New York - A web3 Company</title>
+        <meta name="Description" content="Rare Studios New York" />
+        <link rel="icon" href="/rarestudiosnewyork-favicon.png" />
       </Head>
       
         <div className="h-screen w-screen bg-bg1 fixed top-0 -z-10 bg-cover bg-no-repeat bg-center">
@@ -36,7 +36,7 @@ const ArrowClickedHnadler= () => {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://twitter.com/skeleenft"
+            href="https://twitter.com/rarestudiosny"
           >
             <div className="px-10 py-1  bg-white rounded-md uppercase mx-2 cursor-pointer">
               <svg
@@ -55,7 +55,7 @@ const ArrowClickedHnadler= () => {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://twitter.com/skeleenft"
+            href="mailto:rarestudiosnewyork@protonmail.com"
           >
             <div className="px-10 py-1  bg-white rounded-md uppercase mx-2 cursor-pointer">
               <svg

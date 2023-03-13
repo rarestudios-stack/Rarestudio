@@ -17,7 +17,7 @@ function header() {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://twitter.com/skeleenft"
+            href="https://twitter.com/rarestudiosny"
           >
             <div className="px-10 py-1  bg-white rounded-md uppercase mx-2 cursor-pointer">
               <svg
@@ -36,7 +36,7 @@ function header() {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://twitter.com/skeleenft"
+            href="mailto:rarestudiosnewyork@protonmail.com"
           >
             <div className="px-10 py-1  bg-white rounded-md uppercase mx-2 cursor-pointer">
               <svg

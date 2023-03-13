@@ -185,7 +185,7 @@ export default function FAQs() {
                   : "h-0 hidden transition duration-300 ease-in-out"
               }
             >
-              <div className=" flex flex-col items-start w-full h-full p-4 bg-gray-800">
+              <div className=" flex flex-col items-start w-full h-full p-4 bg-black/50 backdrop-blur-md border border-white">
                 <img src="team-1.png" className="w-[150px] h-[180px]" />
                 <h1 className="font-semibold text-white lg:text-[18px] sm:text-sm mt-1">
                   Ethereum.jpg
@@ -196,7 +196,7 @@ export default function FAQs() {
                 </h1>
               </div>
 
-              <div className=" flex flex-col items-start w-full h-full p-4 bg-gray-800 md:mx-5 md:my-0 my-4">
+              <div className=" flex flex-col items-start w-full h-full p-4 bg-black/50 backdrop-blur-md border border-white md:mx-5 md:my-0 my-4">
                 <img src="team-4.png" className="w-[150px] h-[180px]" />
                 <h1 className="font-semibold text-white lg:text-[18px] sm:text-sm mt-1">
                   Douglas G.
@@ -208,7 +208,7 @@ export default function FAQs() {
                 </h1>
               </div>
 
-              <div className=" flex flex-col items-start w-full h-full p-4 bg-gray-800">
+              <div className=" flex flex-col items-start w-full h-full p-4 bg-black/50 backdrop-blur-md border border-white">
                 <img src="team-3.png" className="w-[150px] h-[180px]" />
                 <h1 className="font-semibold text-white lg:text-[18px] sm:text-sm mt-1">
                   CodeHash
@@ -222,7 +222,7 @@ export default function FAQs() {
                 </h1>
               </div>
 
-              <div className=" flex flex-col items-start w-full h-full p-4 bg-gray-800 md:ml-5 md:mt-0 mt-4">
+              <div className=" flex flex-col items-start w-full h-full p-4 bg-black/50 backdrop-blur-md border border-white md:ml-5 md:mt-0 mt-4">
                 <img src="team-5.png" className="w-[150px] h-[180px]" />
                 <h1 className="font-semibold text-white lg:text-[18px] sm:text-sm mt-1">
                   Cheddar

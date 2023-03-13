@@ -186,22 +186,22 @@ export default function FAQs() {
             >
               <div className=" flex flex-col items-start w-full h-full p-4 bg-gray-800">
                 <img src="team-1.png" className="w-[150px] h-[180px]" />
-                <h1 className="font-semibold text-white text-[18px] mt-1">
+                <h1 className="font-semibold text-white lg:text-[18px] sm:text-sm mt-1">
                   Ethereum.jpg
                 </h1>
-                <h1 className="font-medium text-white text-[15px]">Founder</h1>
-                <h1 className="font-medium text-white text-[16px] mt-3">
+                <h1 className="font-medium text-white lg:text-[15px] sm:text-[12px]">Founder</h1>
+                <h1 className="font-medium text-white lg:text-[16px] sm:text-[14px] mt-3">
                   Entrepreneur <br /> & Blockchain OG
                 </h1>
               </div>
 
               <div className=" flex flex-col items-start w-full h-full p-4 bg-gray-800 md:mx-5 md:my-0 my-4">
                 <img src="team-4.png" className="w-[150px] h-[180px]" />
-                <h1 className="font-semibold text-white text-[18px] mt-1">
+                <h1 className="font-semibold text-white lg:text-[18px] sm:text-sm mt-1">
                   Ordinal.jpg
                 </h1>
-                <h1 className="font-medium text-white text-[15px]">Founder</h1>
-                <h1 className="font-medium text-white text-[16px] mt-3">
+                <h1 className="font-medium text-white lg:text-[15px] sm:text-[12px]">Founder</h1>
+                <h1 className="font-medium text-white lg:text-[16px] sm:text-[14px] mt-3">
                   Gang Leader &<br />
                   Legit Builder
                 </h1>
@@ -209,13 +209,13 @@ export default function FAQs() {
 
               <div className=" flex flex-col items-start w-full h-full p-4 bg-gray-800">
                 <img src="team-3.png" className="w-[150px] h-[180px]" />
-                <h1 className="font-semibold text-white text-[18px] mt-1">
+                <h1 className="font-semibold text-white lg:text-[18px] sm:text-sm mt-1">
                   CodeHash
                 </h1>
-                <h1 className="font-medium text-white text-[15px]">
+                <h1 className="font-medium text-white lg:text-[15px] sm:text-[12px]">
                   Development Lead
                 </h1>
-                <h1 className="font-medium text-white text-[16px] mt-3">
+                <h1 className="font-medium text-white lg:text-[16px] sm:text-[14px] mt-3">
                   Code wiz &<br />
                   Builder
                 </h1>
@@ -223,13 +223,13 @@ export default function FAQs() {
 
               <div className=" flex flex-col items-start w-full h-full p-4 bg-gray-800 md:ml-5 md:mt-0 mt-4">
                 <img src="team-5.png" className="w-[150px] h-[180px]" />
-                <h1 className="font-semibold text-white text-[18px] mt-1">
+                <h1 className="font-semibold text-white lg:text-[18px] sm:text-sm mt-1">
                   Cheddar
                 </h1>
-                <h1 className="font-medium text-white text-[15px]">
+                <h1 className="font-medium text-white lg:text-[15px] sm:text-[12px]">
                   Game Dev
                 </h1>
-                <h1 className="font-medium text-white text-[16px] mt-3">
+                <h1 className="font-medium text-white lg:text-[16px] sm:text-[14px] mt-3">
                   Unity 3D <br /> 
                   Game Builder
                   

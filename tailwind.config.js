@@ -25,8 +25,7 @@ module.exports = {
         'brand-light': 'var(--clr-c7)'
       },
       animation: {
-        'pulse-slow': 'pulse 10s linear infinite',
-        'bounce-up' : 'bounce 1s reverse infinite'
+        'pulse-slow': 'pulse 10s linear infinite'
       },
       backgroundImage:
         {

@@ -221,7 +221,7 @@ export default function FAQs() {
                 </h1>
               </div>
 
-              <div className=" flex flex-col items-start w-full h-full p-4 bg-gray-800">
+              <div className=" flex flex-col items-start w-full h-full p-4 bg-gray-800 md:ml-5 md:mt-0 mt-4">
                 <img src="team-5.png" className="w-[150px] h-[180px]" />
                 <h1 className="font-semibold text-white text-[18px] mt-1">
                   Cheddar
